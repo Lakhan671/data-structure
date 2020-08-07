@@ -36,7 +36,7 @@ public class __65_Solution {
     }
 }
 
-public static class Solution2 {
+  class Solution2 {
 
     public boolean isNumber(String s) {
         return s.matches("(\\s*)[+-]?((\\.[0-9]+)|([0-9]+(\\.[0-9]*)?))(e[+-]?[0-9]+)?(\\s*)");
